@@ -1,7 +1,7 @@
 // import { useState } from 'react'
 import './App.css'
-import Profile from '../src/components/profile/Profile';
-import userData from '../src/components/profile/userData.json';
+import Profile from './components/profile/Profile.jsx';
+import userData from './components/profile/userData.json';
 
 const App = () => {
   return (
